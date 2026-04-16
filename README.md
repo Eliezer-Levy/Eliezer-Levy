@@ -2,6 +2,7 @@
 I am exploring:
 - Inference ast Scale https://github.com/Eliezer-Levy/infer-model
 - Vibe coding for Data-Driven Systems https://github.com/Eliezer-Levy/Energy-agent
+  
 Contact me for further details
 
 <!---
